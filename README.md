@@ -7,6 +7,19 @@ https://colab.research.google.com/drive/1bZ-1yKoyz_IN3swwv2zky1sexGOaP-z_?usp=sh
 <img width="225" height="214" alt="image" src="https://github.com/user-attachments/assets/19d331e7-f781-46fe-a82b-7d48dc3754b9" />
 
 
+# Performance Comparison Table
+
+| Model - Sample | Train Accuracy | Train Loss | Test Accuracy | Test Loss | Precision | Recall | F1-score | ROC | AUC |
+|---|---|---|---|---|---|---|---|---|---|
+| Pre-trained Model 1 (VGG16) ~267 | 65.80% | 1.6296 | 6.00% | 1.4655 | 0.06 | 0.06 | 0.05 | 0.5039 | — |
+| Pre-trained Model 2 (ResNet50) ~267 | 73.61% | 1.2255 | 7.00% | 1.1464 | 0.08 | 0.05 | 0.03 | 0.5034 | — |
+| Pre-trained Model 3 (MobileNetV2) ~267 | 75.84% | 0.8939 | 5.00% | 1.0122 | 0.05 | 0.05 | 0.05 | 0.4803 | — |
+| Model from Teachable Machine | — | — | — | — | — | — | — | — | — |
+| Your 1st Model (EfficientNet, 15 epochs) 5,831 | 89.55% | 0.3306 | 86.00% | 0.5659 | 0.89 | 0.85 | 0.86 | — | — |
+| Your 2nd Model (EfficientNet + EarlyStopping) 5,831 | 79.81% | 0.6850 | 83.86% | 0.6417 | 0.86 | 0.83 | 0.84 | 0.9481 | — |
+| Your 3rd Model - Enhancement (ResNet101, 10 epochs) 1,165 | 72.86% | 1.1317 | 35.00% | 1.2011 | 0.33 | 0.30 | 0.25 | — | — |
+
+
 
 
 
