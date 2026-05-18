@@ -2,10 +2,6 @@
 
 https://colab.research.google.com/drive/1bZ-1yKoyz_IN3swwv2zky1sexGOaP-z_?usp=sharing
 
-<img width="446" height="394" alt="image" src="https://github.com/user-attachments/assets/2b74c1b1-14dc-424d-b094-7fe085e2df50" />
-<img width="201" height="214" alt="image" src="https://github.com/user-attachments/assets/95c2cde1-8f3d-4d78-856d-93adb8222570" />
-<img width="225" height="214" alt="image" src="https://github.com/user-attachments/assets/19d331e7-f781-46fe-a82b-7d48dc3754b9" />
-
 # Performance Comparison Table
 
 | Model - Sample | Train Accuracy | Train Loss | Test Accuracy | Test Loss | Precision | Recall | F1-score | ROC | AUC |
@@ -17,6 +13,12 @@ https://colab.research.google.com/drive/1bZ-1yKoyz_IN3swwv2zky1sexGOaP-z_?usp=sh
 | Your 1st Model (EfficientNet, 15 epochs) 5,831 | 89.55% | 0.3306 | 86.00% | 0.5659 | 0.89 | 0.85 | 0.86 | 0.96 | 0.96 |
 | Your 2nd Model Enhancement (EfficientNet + EarlyStopping) 5,831 | 79.81% | 0.6850 | 83.86% | 0.6417 | 0.86 | 0.83 | 0.84 | 0.9481 | 0.9481 |
 | Your 3rd Model - The Good Model (ResNet101, 10 epochs) 1,165 | 72.86% | 1.1317 | 35.00% | 1.2011 | 0.33 | 0.30 | 0.25 | 0.65 | 0.65 |
+
+<img width="446" height="394" alt="image" src="https://github.com/user-attachments/assets/2b74c1b1-14dc-424d-b094-7fe085e2df50" />
+<img width="201" height="214" alt="image" src="https://github.com/user-attachments/assets/95c2cde1-8f3d-4d78-856d-93adb8222570" />
+<img width="225" height="214" alt="image" src="https://github.com/user-attachments/assets/19d331e7-f781-46fe-a82b-7d48dc3754b9" />
+
+
 
 A. Model Performance
 
