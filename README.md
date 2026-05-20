@@ -13,9 +13,12 @@ https://colab.research.google.com/drive/1z3LkUvkKFDNFTVQceA849G6GR9KDOiFc?usp=dr
 | Your 2nd Model Enhancement (EfficientNet + EarlyStopping) 5,831 | 79.81% | 0.6850 | 83.86% | 0.6417 | 0.86 | 0.83 | 0.84 | 0.9481 | 0.9481 |
 | Your 3rd Model - The Good Model (ResNet101, 10 epochs) 1,165 | 72.86% | 1.1317 | 35.00% | 1.2011 | 0.33 | 0.30 | 0.25 | 0.65 | 0.65 |
 
-<img width="446" height="394" alt="image" src="https://github.com/user-attachments/assets/2b74c1b1-14dc-424d-b094-7fe085e2df50" />
-<img width="201" height="214" alt="image" src="https://github.com/user-attachments/assets/95c2cde1-8f3d-4d78-856d-93adb8222570" />
-<img width="225" height="214" alt="image" src="https://github.com/user-attachments/assets/19d331e7-f781-46fe-a82b-7d48dc3754b9" />
+<img width="1700" height="466" alt="image" src="https://github.com/user-attachments/assets/0f0ce64e-c8d3-4b1f-a9bb-b355a7610a9d" />
+<img width="1708" height="576" alt="image" src="https://github.com/user-attachments/assets/7901b7b5-dbb0-47c7-a7f2-0303bb1e6d78" />
+<img width="1708" height="600" alt="image" src="https://github.com/user-attachments/assets/5e1ddca9-a982-46dc-bffe-b675dca3f22d" />
+
+
+
 
 
 
