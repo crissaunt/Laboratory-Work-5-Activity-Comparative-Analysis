@@ -1,6 +1,9 @@
 # Laboratory-Work-5-Activity-Comparative-Analysis
 https://colab.research.google.com/drive/1z3LkUvkKFDNFTVQceA849G6GR9KDOiFc?usp=drive_link
 
+#model
+https://drive.google.com/drive/folders/1ZOOUaXRz22WZdYd-DZ4N_irlVCWVtSbv?usp=sharing
+
 # Performance Comparison Table
 
 | Model - Sample | Train Accuracy | Train Loss | Test Accuracy | Test Loss | Precision | Recall | F1-score | ROC | AUC |
